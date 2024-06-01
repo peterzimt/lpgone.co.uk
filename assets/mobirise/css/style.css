@@ -2,13 +2,7 @@ html {
   position: relative;
   min-height: 100%;
 }
-.mbr-transparent {
-  opacity: 0;
-  filter: alpha(opacity=0);
-}
-.mbr-embedded-video {
-  position: relative;
-}
+
 .mbr-background-video,
 .mbr-background-video-preview {
   bottom: 0;
@@ -38,16 +32,7 @@ html {
   -webkit-animation-name: none !important;
   animation-name: none !important;
 }
-.msgbox-1 {
-  overflow: hidden;
-  padding: 0 20px;
-  position: relative;
-}
-.msgbox-1 .container {
-  padding: 41px 0 29px;
-  position: relative;
-  z-index: 3;
-}
+
 @media (max-width: 767px) {
   .msgbox-1 .container {
     padding: 67px 0 78px;
@@ -1223,6 +1208,9 @@ html {
 }
 .mbr-section--full-height {
   height: 100vh;
+}
+.mbr-section--semi-height {
+  height: 40vh;
 }
 .mbr-section--full-height.mbr-after-navbar:before {
   display: none;

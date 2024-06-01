@@ -127,44 +127,10 @@ a {
 
 
  
-.icon-lg {
-  font-size: 48px;
-  height: 108px;
-  width: 108px;
-  line-height: 108px;
-  color: #fff;
-  margin: 10px;
-  background-color: rgba(0, 0, 0, 0.4);
-  text-align: center;
-  display: inline-block !important;
-  border-radius: 100%;
-}
-.icon-md {
-  font-size: 36px;
-  height: 68px;
-  width: 68px;
-  line-height: 68px;
-  color: #fff;
-  margin-right: 10px;
-  background-color: rgba(0, 0, 0, 0.4);
-  text-align: center;
-  display: block;
-  border-radius: 50%;
-  -webkit-transition: 500ms;
-  -moz-transition: 500ms;
-  -o-transition: 500ms;
-  transition: 500ms;
-
-}
 
 
 
 
-ul.unstyled {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 /*Unordered Lists*/
 ul.arrow,
 ul.arrow-double,
@@ -177,11 +143,7 @@ ul.rss {
   margin: 0;
 }
 ul.arrow li::before,
-ul.arrow-double li::before,
-ul.tick li::before,
-ul.cross li::before,
-ul.star li::before,
-ul.rss li::before,
+
 ul.arrow li::after,
 ul.arrow-double li::after,
 ul.tick li::after,

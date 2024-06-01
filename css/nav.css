@@ -1,25 +1,4 @@
-.LPG-ONE-top a {
-  color: #5a5a5a;
-  font-size: 35px;
-  font-weight: bold;
-  padding: 12px 5px;
-  text-transform: uppercase;
-}
 
-
-.LPG-ONE-top {
-  color: #5a5a5a;
-  font-size: 30px;
-  font-weight: bold;
-  padding: 7px 5px;
-  text-transform: uppercase;
-  margin:0px;
-}
-
-
-.LPG-ONE-top li {
-  display: inline;
-}
 
 .fa-whatsapp {
   color: #4FC75B;
