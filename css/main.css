@@ -1,0 +1,63 @@
+@import url('nav.css');
+@import url('footer.css');
+@import url('jumbotron.css');
+@import url('animate.css');
+@import url('bootstrap.min.css');
+@import url('font-awesome.min.css');
+@import url('prettyPhoto.css');
+
+
+
+
+.learn-more {
+  background-color: #efefef;
+}
+
+.learn-more h2 {
+  font-family: 'Shift', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color:#AB9D94;
+}
+
+.learn-more a {
+  color: #9D646E;
+}
+
+.LPG-ONE-Gas-safety-certifications-guide {
+  background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+    } 
+
+.LPG-ONE-Gas-safety-certifications-guide h3 {
+    color:#AB9D94;
+    font-size:24px;
+    } 
+
+.LPG-ONE-Gas-safety-certifications-guide p {
+    margin-bottom:13px;
+    font-size:15px;
+    } 
+
+
+.LPG-ONE-Gas-safety-certifications-guide img, .ourTeam img {
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: 4px 4px 5px -1px rgba(103,107,107,1);
+}
+
+.gold-color {
+  color:gold;
+}
+
+
+.top-spacing{
+  margin-top: 15px;
+}
+.img-center {
+  margin: 0 auto;
+}
+
+.15pxspace {
+  margin-bottom: 100px;
+}
