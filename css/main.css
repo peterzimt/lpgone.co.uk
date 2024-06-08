@@ -66,3 +66,18 @@
   width: 200px;
   height:200px;
 }
+
+
+.thumbnail2 {
+  margin-bottom: 30px;
+  transition: transform 0.3s ease-in-out;
+}
+.thumbnail2 img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  max-height: 250px;
+}
+.thumbnail2:hover {
+  transform: scale(1.05);
+}
